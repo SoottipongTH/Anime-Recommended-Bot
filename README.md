@@ -6,9 +6,9 @@ https://www.kaggle.com/hernan4444/anime-recommendation-database-2020?select=anim
 ## Toolkits
 PythaiNLP, Pandas, Json, Random, Pathlib, Matplotlib, Re, MyAnimeList API, torch
 ## Intents
-tag : a unique name
-patterns: sentence patterns for neural network text classifier
-responses: output text to user
+    tag : a unique name
+    patterns: sentence patterns for neural network text classifier
+    responses: output text to user
 ```
 "intents": [{
         "tag": "greeting",
