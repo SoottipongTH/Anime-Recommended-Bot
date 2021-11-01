@@ -4,7 +4,7 @@ Creating a chatbot using Pytorch model based on Natural Language Processing and 
 ## The Data Set
 https://www.kaggle.com/hernan4444/anime-recommendation-database-2020?select=anime.csv
 ## Toolkits
-PythaiNLP, Pandas, Json, Random, Pathlib, Matplotlib, Re, MyAnimeList API, torch
+Python 3.7.9 ,PythaiNLP, Pandas, Json, Random, Pathlib, Matplotlib, Re, MyAnimeList API, torch
 ## Intents
     tag : a unique name
     patterns: sentence patterns for neural network text classifier
