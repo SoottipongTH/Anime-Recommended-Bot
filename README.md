@@ -1,4 +1,4 @@
-# Anime - Bot
+# Uchiha-bot
 Anime Recommended Bot - Chatbot using NLP 
 Creating a chatbot using Pytorch model based on Natural Language Processing and apply Thai language by using Pythainlp
 ## The Data Set
