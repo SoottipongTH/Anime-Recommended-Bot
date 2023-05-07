@@ -1,5 +1,5 @@
-# Pytorch-Anime-Bot
-Pytorch - Chatbot using NLP 
+# Anime - Bot
+Anime Recommended Bot - Chatbot using NLP 
 Creating a chatbot using Pytorch model based on Natural Language Processing and apply Thai language by using Pythainlp
 ## The Data Set
 https://www.kaggle.com/hernan4444/anime-recommendation-database-2020?select=anime.csv
